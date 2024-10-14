@@ -1,0 +1,120 @@
+body{
+    background-color:  #b6b6b6;
+    background-repeat: no-repeat;
+    background-size: cover;
+    bottom: 100%;
+    }
+ 
+        .head{
+            margin: 0;
+            padding: 0;
+            display: flex;
+            width: 100%;
+            background-color:  #b6b6b6;
+            background-size: cover;
+        }
+        
+        .head1a{
+        width: 100%;
+        margin-top: 1%;
+        padding-left: 5%;
+        padding-right: 2%;
+        margin-left: 40%;
+        
+        } 
+        .head1a ul{
+            display: inline;
+            width: 33.3%;
+        }
+        .head1a ul li{
+            display: inline;
+            margin: 0%;
+            width: 100%;
+            font-size: 150%;
+            margin-left: 9%;
+        }
+        ul li a{
+            
+            color: black;
+        }
+        p{
+            font-size: 100%;
+            color:blacks;
+        }
+        h3{
+            text-align: center;
+        }
+        ul li a {text-decoration: none;}
+        .Home{
+            display: flex;
+            background-image: url(collage.jpg);
+            background-attachment: fixed;
+            background-size: cover;
+          padding: 15%;
+         width: 100%;
+         background-repeat: no-repeat;
+         background-size: cover;
+        }
+        .next1{
+            margin: 0;
+            width: 100%;
+            font-size: 150%;
+           
+        }
+        .footer{
+            position: fixed;
+            
+            padding-left: 30%;
+            
+            padding-bottom: 5%;
+            color: white;
+            font-size: 200%;
+        }
+        .next1a{display: flex;
+        border-bottom: 0.5Px solid;
+    width: 100;
+padding-bottom: 0;
+place-items: fix;}
+.next1a h2{
+    margin-left: 81.1%;
+    padding-bottom: 0;
+}
+.next1b{display: flex;
+    border-bottom: 2Px solid;
+width: 100;
+padding-bottom: 0;
+}
+.next1b h2{
+margin-left: 80.5%;
+padding-bottom: 0;
+}
+.next1c{display: flex;
+    border-bottom: 2Px solid;
+width: 100;
+padding-bottom: 0;
+}
+.next1c h2{
+margin-left: 81.4%;
+padding-bottom: 0;
+}
+.next1d{display: bflex;
+    border-bottom: 2Px solid;
+width: 100;
+padding-bottom: 0;
+}
+.next1d h2{
+margin-left: 88.9%;
+padding-bottom: 0;
+}
+.bottom{
+background-color: black;
+color: white;
+display: flex;
+}
+.bottom1{
+    display: inline;
+    width: 100%;
+    text-align: left;
+    margin: 5%;
+}
+    

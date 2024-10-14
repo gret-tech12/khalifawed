@@ -1,0 +1,139 @@
+.head{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    background-color: #b6b6b6;
+    background-size: cover;
+}
+
+.head1a{
+width: 100%;
+margin-top: 1%;
+padding-left: 5%;
+padding-right: 2%;
+margin-left: 40%;
+
+} 
+.head1a ul{
+    display: inline;
+    width: 33.3%;
+}
+.head1a ul li{
+    display: inline;
+    margin: 0%;
+    width: 100%;
+    font-size: 150%;
+    margin-left: 9%;
+}
+.head3{
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.home{
+background-image: url(image/WhatsApp\ Image\ 2024-09-15\ at\ 00.44.43_1fae7e62.jpg);
+background-repeat: no-repeat;
+margin: 0;
+background-size: cover;
+padding-top: 5%;
+height: 350px;
+background-attachment: fixed;
+text-align: top;
+}
+.next{
+    margin: 2%;
+    display: flex;
+}
+.next1a{
+text-align: center;
+margin: 1%;
+}
+.next1a:hover{
+    transform: scale(1.1);
+
+}
+.next1b:hover{
+    transform: scale(1.1);
+}
+.next1c:hover{
+    transform: scale(1.1);
+}
+.next2a:hover{
+    transform: scale(1.1);
+}
+.next2b:hover{
+    transform: scale(1.1);
+}
+.next2c:hover{
+    transform: scale(1.1);
+}
+.next1b{
+    text-align: center;
+    margin: 1%;
+}
+.next1c{
+    text-align: center;
+           margin: 1%;
+}
+
+.next2{
+    margin: 2%;
+    display: flex;
+}
+.next2a{
+text-align: center;
+margin: 1%;
+}
+.next2b{
+    text-align: center;
+    margin: 1%;
+}
+.next2c{
+    text-align: center;
+           margin: 1%;
+}
+.next3{
+    margin: 2%;
+    display: flex;
+}
+.next3a{
+text-align: center;
+margin: 1%;
+}
+.next3b{
+    text-align: center;
+    margin: 1%;
+    margin-left: 10%;
+}
+.next3c{
+    text-align: center;
+           margin: 1%;
+}
+.next3a:hover{
+    transform: scale(1.1);
+}
+.next3b:hover{
+    transform: scale(1.1);
+}
+.next3c:hover{
+    transform: scale(1.1);
+    
+}
+.next4 {
+    display: inline;
+}
+ul li a{text-decoration: none;}
+@media(min-width:1200px){
+    .mobile{
+        display: none;
+    }
+}
+
+@media(max-width:1100px){
+    .desktop{
+        display: none;
+    }
+}
+
